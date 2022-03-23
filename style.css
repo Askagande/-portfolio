@@ -124,6 +124,8 @@
 
     .btn {
         margin-left: auto;
+        text-align: center;
+        max-width: 50%;
     }
 
 }
